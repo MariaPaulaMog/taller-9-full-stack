@@ -1,0 +1,12 @@
+.amarillo   {
+    color: gold;
+    text-decoration: underline;
+    font-size: 30px;
+    display:block;
+}
+
+.morado {
+    color: darkmagenta;
+    text-decoration: underline;
+    font-size: 30px;
+}

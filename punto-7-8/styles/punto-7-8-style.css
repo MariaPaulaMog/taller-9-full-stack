@@ -1,0 +1,26 @@
+.menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-image: linear-gradient(to right, #b07eff, #6b00b7); 
+    width: 30%;
+    display: flex; 
+  }
+  
+ 
+  .menu li {
+    margin-right: 10px; 
+  }
+  
+  .menu li a {
+    display: block;
+    padding: 10px; 
+    color: white; 
+    text-decoration: none; 
+  }
+  
+  .menu li a:hover {
+    background-color: #0088ff; 
+    color: white;
+  }
+  

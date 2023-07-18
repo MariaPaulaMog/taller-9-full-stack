@@ -1,0 +1,18 @@
+.contenedor {
+    text-align: center;
+    height: 50px;
+  }
+  
+  .rojo, .azul {
+    display: block;
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+  .rojo {
+    color: red;
+  }
+  
+  .azul {
+    color: blue;
+  }

@@ -1,0 +1,37 @@
+.normal {
+    font-weight: normal;
+    color: black;
+  }
+  
+  .subrayado-verde {
+    text-decoration: underline;
+    color: green;
+  }
+  
+  .negrilla-rojo {
+    font-weight: bold;
+    color: red;
+  }
+  
+  .negrilla-grande {
+    font-weight: bold;
+    font-size: 50px;
+  }
+  
+  .negrilla-azul {
+    font-weight: bold;
+    color: blue;
+  }
+  
+  .negrilla-roja {
+    font-weight: bold;
+    text-decoration: underline;
+    color: red;
+  }
+  .doble-linea{
+    text-decoration: underline overline;
+  }
+  
+  
+  
+  

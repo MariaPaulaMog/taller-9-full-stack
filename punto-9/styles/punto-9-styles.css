@@ -1,0 +1,36 @@
+
+.custom-table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: yellow;
+  }
+  
+ 
+  .custom-table th {
+    color: red;
+    font-weight: normal;
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+  }
+  
+
+  .numeros {
+    color: black; 
+    text-align: center;
+    padding: 10px;
+    border: 1px solid black;
+  }
+  
+  
+  .last-row-text {
+    text-align: center;
+    padding: 10px;
+    border-bottom: 3px dotted red;
+      }
+      
+  #izquierda{
+    border-right: 1px solid yellow;
+  }
+  
+  

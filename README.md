@@ -4,6 +4,10 @@
 <p>Curso: Full Stack Básico - Grupo 1 </p>
 <p>Profesor: Cristian Patiño </p>
 
+<h3> Link página Web </h3>
+<a href= "https://mariapaulamog.github.io/taller-9-full-stack/" target="_black">link pagina web
+</a>
+
 <h2>Punto 1: Link de Figma </h2>
 <a href="https://www.figma.com/file/vDEY0FFPSQP4K99OevSmjx/Maria-Paula-Mogollon---Figma-Exercise?type=design&node-id=6%3A249&mode=design&t=6EQqqCrIABhAkiH6-1">Link de Figma </a>
 

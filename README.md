@@ -9,9 +9,7 @@
 </a>
 
 <h2>Punto 1: Link de Figma </h2>
-<a href="https://www.figma.com/file/vDEY0FFPSQP4K99OevSmjx/Maria-Paula-Mogollon---Figma-Exercise?type=design&node-id=6%3A249&mode=design&t=6EQqqCrIABhAkiH6-1">Link de Figma </a>
-
-<a href= "https://mariapaulamog.github.io/taller-9-full-stack/"> Link menu </a>
+<a href="https://www.figma.com/file/vDEY0FFPSQP4K99OevSmjx/Maria-Paula-Mogollon---Figma-Exercise?type=design&node-id=6%3A249&mode=design&t=6EQqqCrIABhAkiH6-1">Link de Figma</a>
 
 <h2>Punto 2: HTML </h2>
 <img src="./public/images/HTML.png" alt="html">
